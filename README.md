@@ -1,1 +1,4 @@
 # Back-End-Development-and-APIs-Projects
+
+This repository contains all the projects required to achieve **Back End Development and APIs Developer Certification**.
+
